@@ -241,10 +241,10 @@ form textarea {
     width: 100%;
     border: 0;
     outline: none;
-    background: #141414;
+    background: #f3e9e9;
     padding: 15px;
     margin: 15px 0;
-    color: white;
+    color: rgb(41, 34, 34);
     font-size: 18px;
     border: 6px;
 }

@@ -11,10 +11,10 @@
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#LOW FIDELITY FIGMA:
+##LOW FIDELITY FIGMA:
 https://www.figma.com/file/f5FcRlIW2Lub8WlsybzDqB/charles-MINIPROJECT1-Lowfidelity-Wireframe?t=9MGLxTmmAqWnKo9V-1)
 
-#HIGH FIDELITY FIGMA:
+##HIGH FIDELITY FIGMA:
 (https://www.figma.com/file/eZKV5hu11MrhiCmLKczVUi/miniProject1-High-Fidelity-Wireframe?node-id=0%3A1&t=9MGLxTmmAqWnKo9V-1)
 
 ## CURRENT FEATURES IMPLEMENTED
